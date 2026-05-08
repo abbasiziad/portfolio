@@ -114,7 +114,7 @@ export default function Footer() {
             and too much coffee.
           </p>
           <p className="text-[var(--text-muted)] text-sm font-mono">
-            Built with Next.js & Tailwind CSS
+            
           </p>
         </div>
       </div>
